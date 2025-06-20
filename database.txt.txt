@@ -1,0 +1,3 @@
+Alice Smith 20 CS101
+Bob Johnson 21 CS101
+Clara Jones 22 CS102
